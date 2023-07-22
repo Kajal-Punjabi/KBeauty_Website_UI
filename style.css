@@ -1,0 +1,14 @@
+logoimg{
+    height: 50px; 
+    width: 50px; 
+    border-radius: 50%; 
+    border: 1px solid purple;
+}
+.py-10 {
+    padding-top: 1.5rem;
+    padding-bottom: 0rem;
+}
+.py-24 {
+    padding-top: 2rem;
+    padding-bottom: 6rem;
+}
